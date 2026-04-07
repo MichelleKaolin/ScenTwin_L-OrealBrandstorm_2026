@@ -1,74 +1,145 @@
-# 🧴 NEXDERM
+# 🌿 SCENTWIN™ — L’Oréal Brandstorm 2026
 
-NEXDERM é uma solução tecnológica voltada para análise e recomendação de cuidados com a pele, utilizando inteligência artificial e visão computacional para personalizar tratamentos dermatológicos.
+## 📌 Overview
 
----
+**SCENTWIN™** is a precision beauty solution that revolutionizes fragrance personalization through **biometric mapping** and **AI-powered scent simulation**.
 
-## 💡 Objetivo
-
-Oferecer uma experiência digital acessível e inteligente para auxiliar usuários na identificação de condições da pele e recomendação de produtos e rotinas de cuidado.
+By creating a **Digital Olfactory Twin**, the system predicts how a fragrance evolves on each individual’s skin — ensuring a truly personalized and long-lasting scent experience.
 
 ---
 
-## 🚀 Funcionalidades (em desenvolvimento)
+## 🚀 The Problem
 
-- 📸 Análise da pele por imagem
-- 🧠 Recomendação personalizada de produtos
-- 📊 Histórico de evolução do usuário
-- 🧴 Sugestão de rotinas de skincare
-- 🔔 Alertas e lembretes
+The fragrance market still relies heavily on generic testing methods, leading to uncertainty in purchase decisions.
+
+* Up to **68% uncertainty** when choosing perfumes
+* Fragrances react differently depending on **skin chemistry**
+* No accurate way to predict scent evolution over time
 
 ---
 
-## 🧱 Estrutura do Projeto
-NEXDERM/
-│
-├── README.md
-├── .gitignore
-│
-├── docs/
-│
-├── design/
-│   ├── wireframes/
-│   ├── prototipos/
-│   └── imagens/
-│
-├── frontend/
-│   ├── index.html
-│   ├── css/
-│   │   └── style.css
-│   ├── js/
-│   │   └── script.js
-│   └── assets/
-│
-├── backend/   
-│   ├── api/
-│   ├── database/
-│   └── server.js
-│
-├── mobile/    
-│
-└── tests/
+## 💡 Our Solution
 
-## 🛠️ Tecnologias
+SCENTWIN™ combines **biometric data**, **AI simulation**, and a **physical testing device** to deliver a fully personalized fragrance journey.
 
-- HTML, CSS, JavaScript
-- (Futuro) Python / IA / APIs
-- (Futuro) Mobile (Android/iOS)
+### 🔬 Core Components
 
-## 📌 Status do Projeto
+#### 1. Biometric Scan
 
-🚧 Em desenvolvimento
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* Facial analysis
+* Dermato-chemical questionnaire
+* Skin condition mapping
 
-## 🎯 Diferencial
+➡️ Generates a **personal scent profile**
 
-O NEXDERM busca integrar tecnologia e bem-estar, oferecendo uma abordagem personalizada e acessível para cuidados com a pele, utilizando recursos modernos de inteligência artificial.
+---
 
-## 👩‍💻 Autora
+#### 2. Digital Olfactory Twin
 
-Michelle Kaolin Vieira Souza
+An AI-generated model that replicates how your skin interacts with fragrances.
 
-## 📎 Observações
+* Based on:
 
-Este projeto faz parte do desenvolvimento de portfólio acadêmico e profissional.
+  * Skin pH
+  * Sebum level
+  * Temperature
+  * Microbiome interaction
+
+➡️ Predicts scent behavior uniquely for each user
+
+---
+
+#### 3. 3-Act Scent Simulation
+
+Simulates how the fragrance evolves over time:
+
+* **Top Notes (0–30 min)**
+  First impression, high volatility
+
+* **Heart Notes (30 min – 4h)**
+  Core identity of the fragrance
+
+* **Base Notes (4h+)**
+  Long-lasting signature, fused with skin
+
+---
+
+#### 4. SCENTWIN™ SkinKit (Physical Device)
+
+A premium device that enhances accuracy:
+
+* Measures:
+
+  * Skin pH (4.0 – 7.0)
+  * Sebum level
+  * Temperature
+
+* Enables:
+
+  * Real-time calibration
+  * Context-based simulation (humid, dry, cold environments)
+
+➡️ Ensures **high precision and reliability**
+
+---
+
+## 🧠 Technology Behind It
+
+* Artificial Intelligence (predictive modeling)
+* Biometric data processing
+* Chemical scent simulation
+* Real-time environmental adaptation
+
+---
+
+## 🌍 Key Differentiator
+
+👉 **Predictive Simulation** instead of trial-and-error
+
+SCENTWIN™ allows users to:
+
+* Test fragrances digitally before buying
+* Understand how scents evolve on their skin
+* Make confident purchase decisions
+
+---
+
+## 🛍️ User Journey
+
+1. User performs biometric scan
+2. System generates scent profile
+3. Digital twin is created
+4. Fragrance is simulated in 3 stages
+5. User tests via SkinKit (optional)
+6. Purchase with full confidence
+
+---
+
+## 🔁 Continuous Personalization
+
+* Seasonal recalibration every 6 months
+* Adaptation to environmental changes
+* Continuous learning from user data
+
+---
+
+## 🎯 Vision
+
+To redefine the fragrance industry through **precision beauty**, where every scent is engineered to match the individual’s biology.
+
+---
+
+## 🏆 Why It Matters
+
+* Reduces product uncertainty
+* Enhances user experience
+* Drives innovation in luxury beauty
+* Bridges technology and personalization
+
+---
+
+## 📎 Future Potential
+
+* Integration with mobile apps
+* Expansion to skincare personalization
+* Global olfactory data ecosystem
